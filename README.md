@@ -13,4 +13,4 @@ Biblioteca usada para lidar com Json
 
 - [Front-end](https://github.com/N4TH4NB/Projeto_Final_Front)
 - [Receptor](https://github.com/N4TH4NB/Projeto_Final_Receiver_Database)
-- [Transmissor](C:/Users/nathanbc/Desktop/estacao-meteorologica/Transmisso)
+- [Transmissor](https://github.com/N4TH4NB/Projeto_Final_Transmitter)
